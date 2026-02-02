@@ -19,8 +19,8 @@ This code reflects my skill level at the time it was written and prioritizes lea
 Build
 Compiler: GCC
 Example:
-cd scr/
-gcc -Wall -Wextra -g3 *.c -o main.exe
+- cd scr/
+- gcc -Wall -Wextra -g3 *.c -o main.exe
 
 Author
 Lucas Codama
