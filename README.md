@@ -1,7 +1,7 @@
-# Academic Project in C (Technical High School)
+# Academic Project in C (Free Market)
 
 This repository contains an academic project developed in C as part of a technical high school course.
-The project was created for educational purposes only.
+The project simulates a simplified online marketplace, similar in concept to Mercado Livre, implemented entirely in C for educational purposes.
 
 ## Context
 - Developed during technical high school
