@@ -1885,12 +1885,6 @@ void menu() {
 
 
 int main() {
-
-	/* ----------------------------
-	* Grupo: Lucas Codama, Sofia Gabriele, Pedro Toledo
-	* Turma: 104
-	----------------------------*/
-
 	LimparTela();
 	menu();
 	return JOIA;
