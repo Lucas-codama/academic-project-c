@@ -1,26 +1,26 @@
-Academic Project in C (Technical High School)
+#Academic Project in C (Technical High School)
 
 This repository contains an academic project developed in C as part of a technical high school course.
 The project was created for educational purposes only.
 
-Context
+#Context
 - Developed during technical high school
 - Focused on learning C language fundamentals
 - Not intended for production use
 
-What this project demonstrates
+#What this project demonstrates
 - Modularization using multiple .c and .h files
 - Use of structs
 - Procedural, menu-driven program flow
 
-Limitations
+#Limitations
 This code reflects my skill level at the time it was written and prioritizes learning objectives over production-quality architecture.
 
-Build
+#Build
 Compiler: GCC
 Example:
 - cd scr/
 - gcc -Wall -Wextra -g3 *.c -o main.exe
 
-Author
+#Author
 Lucas Codama
